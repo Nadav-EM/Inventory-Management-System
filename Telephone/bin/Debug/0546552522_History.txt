@@ -1,0 +1,217 @@
+Date: 22 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  PHN 009
+Product Name:  Sony Xperia 1
+Price:  1300.9 $
+Description:  X-Reality Engine
+
+
+--------
+Catalog:  PHN 010
+Product Name:  Sony Xperia XA2
+Price:  1100.25 $
+Description:  Up to 256 GB (dedicated slot)
+
+
+2401.15
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Date: 23 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0008
+Product Name:  Asus E203M
+Price:  1500 $
+Description:  Designed for mobility
+
+
+--------
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+2700.99
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+2240.49
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 1 April 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0011
+Product Name:  MacBook Pro 15
+Price:  1800.99 $
+Description:  Turbo Boost up to 4.8 GHz
+
+Date: 1 April 2019
+First Name:  Yair
+Last Name:  Elkayam
+Mobile:  0546552522
+Email:  yairelkayam20@gmail.com
+Status:  NORMAL
+Address:  Sorek 98
+City:  Tel Aviv
+Payment:  Cash
+--------

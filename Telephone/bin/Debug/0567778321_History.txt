@@ -1,0 +1,252 @@
+Date: 22 March 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  CMP004
+Product Name:  MacBook pro 15
+Price:  1800.99 $
+Description:  Turbo boost up to 4.8 GHz 
+
+Date: 22 March 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  CMP011
+Product Name:  HP ChromeBook
+Price:  199.99 $
+Description:  Available with 11 & 14-inch displays
+
+
+2000.98
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 23 March 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+--------
+
+1800.99
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+Date: 29 March 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+Date: 1 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0008
+Product Name:  Asus E203M
+Price:  1500 $
+Description:  Designed for mobility
+
+
+2700.99
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 1 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+1200.99
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 1 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0006
+Product Name:  Sony Vaio Z
+Price:  1290.99 $
+Description:  Windows 10 Pro
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+2491.98
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 3 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  CreditCredit Number:  XXXX-XXXX-XXXX-6214
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+3200.94
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  17 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+1800.99
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  17 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  
+--------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+
+
+890
+
+-----------------------
+-----------------------
+-----------------------
+
+

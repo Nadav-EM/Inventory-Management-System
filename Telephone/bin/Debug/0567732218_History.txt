@@ -1,0 +1,22 @@
+Date: 29 March 2019
+First Name:  Ziv
+Last Name:  Lehavi
+Mobile:  0567732218
+Email:  zivle@walla.co.il
+Status:  NORMAL
+Address:  Sharom 32/4
+City:  Bat Yam
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+

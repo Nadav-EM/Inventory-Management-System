@@ -1,0 +1,21 @@
+Date:  4 April 2019
+First Name:  Yossi
+Last Name:  Ben Zaken
+Mobile:  0548152600
+Email:  yossibz@gmail.com
+Status:  VIP
+Address:  Hermon 123
+City:  Beer Sheva
+Payment:  
+---------------------------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+---------------------------
+Catalog:  0008
+Product Name:  Asus E203M
+Price:  1500 $
+Description:  Designed for mobility
+_________________
+TOTAL:  2549.5 $

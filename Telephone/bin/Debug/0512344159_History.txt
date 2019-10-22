@@ -1,0 +1,213 @@
+Date: 22 March 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  CMP003
+Product Name:  MacBook Air 13
+Price:  1275.99 $
+Description:  Up to 12 hours battery life
+
+
+--------
+Catalog:  PHN 007
+Product Name:  iPhone 8
+Price:  1100.9 $
+Description:  RAM: 2 GB
+
+
+1972.82
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 23 March 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0013
+Product Name:  iMac Pro
+Price:  2100.9 $
+Description:  27 inch LED backlit 5K display
+
+Date: 26 March 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+--------
+
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+2648.48
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+2483.34
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 2 April 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0011
+Product Name:  MacBook Pro 15
+Price:  1800.99 $
+Description:  Turbo Boost up to 4.8 GHz
+
+Date: 2 April 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+Date: 4 April 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+1659.96
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 4 April 2019
+First Name:  Amir
+Last Name:  Dahan
+Mobile:  0512344159
+Email:  malmo@gmail.com
+Status:  FRIENDS
+Address:  Alenbi 31
+City:  Tel Aviv
+Payment:  Credit
+Credit Number:  XXXX-XXXX-XXXX-6277
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+2656.78
+
+-----------------------
+-----------------------
+-----------------------
+
+

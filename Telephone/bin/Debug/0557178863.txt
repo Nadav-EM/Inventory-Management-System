@@ -1,0 +1,21 @@
+Date:  6 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  
+---------------------------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+---------------------------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+_________________
+TOTAL:  3049.45 $

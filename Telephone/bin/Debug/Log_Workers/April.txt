@@ -1,0 +1,723 @@
+
+01/04/2019 10:44:21
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+01/04/2019 21:50:25
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 8:26:56
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 8:28:16
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 9:50:28
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:23:11
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:24:35
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:29:32
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:30:48
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:35:39
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:35:52
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+02/04/2019 10:55:03
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+03/04/2019 18:44:54
+Nadav
+boss1@company.com
+
+
+LogOut: 03/04/2019 18:44:57
+- - - - - - - - 
+Login:
+03/04/2019 18:53:37
+Nadav
+boss1@company.com
+
+Logout:
+ 12:00:00 AM
+- - - - - - - - 
+Login:
+03/04/2019 18:55:22
+Nadav
+boss1@company.com
+
+Login:
+03/04/2019 18:55:49
+Nadav
+boss1@company.com
+
+Logout:
+00:00:00
+- - - - - - - - 
+Login:
+03/04/2019 18:57:25
+Nadav
+boss1@company.com
+
+Logout:
+0:00:00
+- - - - - - - - 
+Login:
+03/04/2019 18:59:27
+Nadav
+boss1@company.com
+
+Logout:
+03/04/2019 18:59:28
+- - - - - - - - 
+Login:
+03/04/2019 19:00:28
+Nadav
+boss1@company.com
+
+Logout:
+03/04/2019 19:00:29
+
+- - - - - - - - 
+Login:
+03/04/2019 19:01:33
+
+Nadav
+boss1@company.com
+
+Logout:
+03/04/2019 19:01:34
+- - - - - - - - 
+Login:
+03/04/2019 19:03:50
+
+Nadav
+boss1@company.com
+
+Logout:
+03/04/2019 19:05:19
+- - - - - - - - 
+Login:
+04/04/2019 10:11:45
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 10:13:00
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 10:18:23
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 10:19:41
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 10:20:32
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 10:27:00
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 10:28:43
+- - - - - - - - 
+Login:
+04/04/2019 10:29:22
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 10:29:47
+- - - - - - - - 
+Logout:
+04/04/2019 10:29:50
+- - - - - - - - 
+Login:
+04/04/2019 10:45:06
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 10:55:49
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 10:58:45
+- - - - - - - - 
+Logout:
+04/04/2019 11:00:24
+- - - - - - - - 
+Login:
+04/04/2019 11:04:28
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 11:06:21
+- - - - - - - - 
+Login:
+04/04/2019 11:18:50
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 11:22:11
+- - - - - - - - 
+Login:
+04/04/2019 11:23:22
+
+Boaz
+worker1@company.com
+
+Logout:
+04/04/2019 11:26:29
+- - - - - - - - 
+Login:
+04/04/2019 11:42:53
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 11:46:14
+- - - - - - - - 
+Login:
+04/04/2019 11:53:50
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 11:55:54
+- - - - - - - - 
+Logout:
+04/04/2019 11:55:58
+- - - - - - - - 
+Login:
+04/04/2019 12:07:13
+
+Boaz
+worker1@company.com
+
+Login:
+04/04/2019 12:12:39
+
+Boaz
+worker1@company.com
+
+Logout:
+04/04/2019 12:14:11
+- - - - - - - - 
+Logout:
+04/04/2019 12:14:13
+- - - - - - - - 
+Login:
+04/04/2019 12:15:34
+
+Boaz
+worker1@company.com
+
+Logout:
+04/04/2019 12:19:26
+- - - - - - - - 
+Logout:
+04/04/2019 12:19:28
+- - - - - - - - 
+Login:
+04/04/2019 12:59:49
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 13:03:53
+- - - - - - - - 
+Login:
+04/04/2019 13:06:42
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 13:10:42
+- - - - - - - - 
+Login:
+04/04/2019 13:11:56
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 13:18:40
+- - - - - - - - 
+Login:
+04/04/2019 13:20:28
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 13:26:25
+- - - - - - - - 
+Login:
+04/04/2019 13:29:18
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 13:37:14
+- - - - - - - - 
+Login:
+04/04/2019 13:59:42
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 14:03:21
+- - - - - - - - 
+Login:
+04/04/2019 14:06:37
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 14:07:11
+- - - - - - - - 
+Login:
+04/04/2019 14:11:48
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 14:17:43
+- - - - - - - - 
+Logout:
+04/04/2019 14:59:07
+- - - - - - - - 
+Logout:
+04/04/2019 14:59:14
+- - - - - - - - 
+Login:
+04/04/2019 15:47:18
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 15:49:01
+- - - - - - - - 
+Login:
+04/04/2019 15:50:09
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 15:58:20
+- - - - - - - - 
+Login:
+04/04/2019 16:42:28
+
+Boaz
+worker1@company.com
+
+Logout:
+04/04/2019 16:46:10
+- - - - - - - - 
+Login:
+04/04/2019 20:23:32
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 20:24:03
+- - - - - - - - 
+Login:
+04/04/2019 20:24:16
+
+Boaz
+worker1@company.com
+
+Login:
+04/04/2019 20:27:23
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 20:28:48
+- - - - - - - - 
+Login:
+04/04/2019 20:29:05
+
+Nadav
+boss1@company.com
+
+Login:
+04/04/2019 20:52:21
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 20:52:32
+- - - - - - - - 
+Login:
+04/04/2019 20:52:40
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 20:53:30
+- - - - - - - - 
+Login:
+04/04/2019 21:20:32
+
+Nadav
+boss1@company.com
+
+Logout:
+04/04/2019 21:21:40
+- - - - - - - - 
+Login:
+04/04/2019 21:41:23
+
+Nadav
+boss1@company.com
+
+Login:
+05/04/2019 0:11:02
+
+Nadav
+boss1@company.com
+
+Logout:
+05/04/2019 0:18:18
+- - - - - - - - 
+Login:
+05/04/2019 0:30:10
+
+Nadav
+boss1@company.com
+
+Login:
+05/04/2019 0:31:32
+
+Nadav
+boss1@company.com
+
+Login:
+05/04/2019 0:32:02
+
+Nadav
+boss1@company.com
+
+Login:
+05/04/2019 0:33:57
+
+Nadav
+boss1@company.com
+
+Login:
+05/04/2019 0:46:35
+
+Nadav
+boss1@company.com
+
+Logout:
+05/04/2019 0:47:58
+- - - - - - - - 
+Logout:
+05/04/2019 0:47:59
+- - - - - - - - 
+Logout:
+05/04/2019 14:04:25
+- - - - - - - - 
+Logout:
+05/04/2019 14:05:47
+- - - - - - - - 
+Logout:
+05/04/2019 14:09:21
+- - - - - - - - 
+Logout:
+05/04/2019 14:09:23
+- - - - - - - - 
+Login:
+05/04/2019 14:19:26
+
+Nadav
+boss1@company.com
+
+Login:
+06/04/2019 18:03:49
+
+Nadav
+boss1@company.com
+
+Logout:
+06/04/2019 18:04:20
+- - - - - - - - 
+Login:
+06/04/2019 18:04:29
+
+Nadav
+boss1@company.com
+
+Login:
+09/04/2019 9:31:14
+
+Nadav
+boss1@company.com
+
+Login:
+09/04/2019 9:40:35
+
+Nadav
+boss1@company.com
+
+Login:
+09/04/2019 9:47:11
+
+Nadav
+boss1@company.com
+
+Login:
+09/04/2019 10:15:43
+
+Nadav
+boss1@company.com
+
+Login:
+09/04/2019 10:17:14
+
+Nadav
+boss1@company.com
+
+Login:
+09/04/2019 20:52:18
+
+Nadav
+boss1@company.com
+
+Logout:
+09/04/2019 20:53:24
+- - - - - - - - 
+Logout:
+09/04/2019 20:53:27
+- - - - - - - - 
+Login:
+10/04/2019 14:09:31
+
+Nadav
+boss1@company.com
+
+Logout:
+10/04/2019 14:10:02
+- - - - - - - - 
+Logout:
+10/04/2019 14:10:04
+- - - - - - - - 
+Login:
+12/04/2019 10:23:29
+
+Nadav
+boss1@company.com
+
+Login:
+12/04/2019 10:23:51
+
+Nadav
+boss1@company.com
+
+Login:
+12/04/2019 10:24:16
+
+Nadav
+boss1@company.com
+
+Login:
+12/04/2019 10:28:05
+
+Nadav
+boss1@company.com
+
+Logout:
+12/04/2019 10:30:52
+- - - - - - - - 
+Login:
+12/04/2019 10:31:02
+
+Nadav
+boss1@company.com
+
+Login:
+12/04/2019 10:31:52
+
+Nadav
+boss1@company.com
+
+Login:
+12/04/2019 10:32:41
+
+Nadav
+boss1@company.com
+
+Login:
+12/04/2019 10:38:33
+
+Nadav
+boss1@company.com
+
+Logout:
+12/04/2019 10:38:56
+- - - - - - - - 
+Login:
+12/04/2019 10:39:04
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 14:32:00
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 14:32:39
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 14:33:43
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 14:34:15
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 14:35:02
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 14:35:49
+
+Nadav
+boss1@company.com
+
+Logout:
+17/04/2019 14:36:08
+- - - - - - - - 
+Login:
+17/04/2019 14:36:21
+
+Nadav
+boss1@company.com
+
+Login:
+17/04/2019 21:51:46
+
+Nadav
+boss1@company.com
+
+Logout:
+17/04/2019 21:53:09
+- - - - - - - - 
+Login:
+17/04/2019 21:53:21
+
+Nadav
+boss1@company.com
+
+Logout:
+17/04/2019 21:54:15
+- - - - - - - - 
+Login:
+17/04/2019 21:54:24
+
+Nadav
+boss1@company.com
+
+Logout:
+17/04/2019 21:54:40
+- - - - - - - - 
+Login:
+17/04/2019 21:54:48
+
+Nadav
+boss1@company.com
+
+Logout:
+17/04/2019 21:55:36
+- - - - - - - - 
+Logout:
+17/04/2019 21:55:38
+- - - - - - - - 

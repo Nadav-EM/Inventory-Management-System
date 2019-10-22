@@ -1,0 +1,163 @@
+Date: 22 March 2019
+First Name:  Boaz 
+Last Name:  Daniel
+Mobile:  0523504677
+Email:  boazd123@gmail.com
+Status:  FRIENDS
+Address:  Park avenu 51
+City:  Kfar Saba
+Payment:  Cash
+--------
+Catalog:  CMP004
+Product Name:  MacBook pro 15
+Price:  1800.99 $
+Description:  Turbo boost up to 4.8 GHz 
+
+
+--------
+Catalog:  PHN 007
+Product Name:  iPhone 8
+Price:  1100.9 $
+Description:  RAM: 2 GB
+
+
+2408.57
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 23 March 2019
+First Name:  Boaz 
+Last Name:  Daniel
+Mobile:  0523504677
+Email:  boazd123@gmail.com
+Status:  FRIENDS
+Address:  Park avenu 51
+City:  Kfar Saba
+Payment:  Cash
+--------
+Date: 23 March 2019
+First Name:  Boaz 
+Last Name:  Daniel
+Mobile:  0523504677
+Email:  boazd123@gmail.com
+Status:  FRIENDS
+Address:  Park avenu 51
+City:  Kfar Saba
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+--------
+
+1985.34
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  Boaz 
+Last Name:  Daniel
+Mobile:  0523504677
+Email:  boazd123@gmail.com
+Status:  FRIENDS
+Address:  Park avenu 51
+City:  Kfar Saba
+Payment:  Cash
+--------
+Date: 1 April 2019
+First Name:  Boaz 
+Last Name:  Daniel
+Mobile:  0523504677
+Email:  boazd123@gmail.com
+Status:  FRIENDS
+Address:  Park avenu 51
+City:  Kfar Saba
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+
+3568.99
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 2 April 2019
+First Name:  Boaz 
+Last Name:  Daniel
+Mobile:  0523504677
+Email:  boazd123@gmail.com
+Status:  FRIENDS
+Address:  Park avenu 51
+City:  Kfar Saba
+Payment:  
+--------
+Catalog:  0006
+Product Name:  Sony Vaio Z
+Price:  1290.99 $
+Description:  Windows 10 Pro
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+4434.25
+
+-----------------------
+-----------------------
+-----------------------
+
+

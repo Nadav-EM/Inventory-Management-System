@@ -1,0 +1,16 @@
+Date:  17 April 2019
+First Name:  Aviv
+Last Name:  Chen
+Mobile:  0567778321
+Email:  aviv@gmail.com
+Status:  NORMAL
+Address:  Barazani 14
+City:  Tel Aviv
+Payment:  
+---------------------------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+_________________
+TOTAL:  890 $

@@ -1,0 +1,390 @@
+Date: 29 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0011
+Product Name:  MacBook Pro 15
+Price:  1800.99 $
+Description:  Turbo Boost up to 4.8 GHz
+
+Date: 29 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+Date: 29 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0006
+Product Name:  Sony Vaio Z
+Price:  1290.99 $
+Description:  Windows 10 Pro
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+Date: 29 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+Date: 29 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0006
+Product Name:  Sony Vaio Z
+Price:  1290.99 $
+Description:  Windows 10 Pro
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+3682.97
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 30 March 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+2391.98
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 1 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0008
+Product Name:  Asus E203M
+Price:  1500 $
+Description:  Designed for mobility
+
+Date: 1 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0013
+Product Name:  iMac Pro
+Price:  2100.9 $
+Description:  27 inch LED backlit 5K display
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+Date: 1 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+Date: 1 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+Date: 1 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0008
+Product Name:  Asus E203M
+Price:  1500 $
+Description:  Designed for mobility
+
+Date: 1 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+Date: 3 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  CreditCredit Number:  
+XXXX-XXXX-XXXX-6214
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+
+2299.49
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 4 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+1999.95
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 4 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+1999.95
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 4 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+
+3401.98
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  6 April 2019
+First Name:  Elyaniv
+Last Name:  Barda
+Mobile:  0557178863
+Email:  bardayaniv@yahoo.com
+Status:  NORMAL
+Address:  Bazel 567
+City:  Beer Sheva
+Payment:  
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+3049.45
+
+-----------------------
+-----------------------
+-----------------------
+
+

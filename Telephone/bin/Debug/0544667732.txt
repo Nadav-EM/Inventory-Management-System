@@ -1,0 +1,14 @@
+Date: 29 March 2019
+First Name:  uri
+Last Name:  kimhi
+Mobile:  0544667732
+Email:  uri.kimhi@gmail.com
+Status:  NORMAL
+Address:  bla bla
+City:  Beer Sheva
+Payment:  Cash
+---------------------------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost

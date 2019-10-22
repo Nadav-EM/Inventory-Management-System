@@ -1,0 +1,317 @@
+Date: 23 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+Date: 23 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+4001.98
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+Date: 29 March 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+Date: 1 April 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0023
+Product Name:  iPhone X
+Price:  1999.9 $
+Description:  CPU Speed: 2.39 GHz
+
+
+--------
+Catalog:  0025
+Product Name:  iPhone 8
+Price:  899.9 $
+Description:  RAM: 2 GB
+
+Date: 2 April 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+1049.5
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 4 April 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+1999.95
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  12 April 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+1999.95
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  12 April 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+1800.99
+
+-----------------------
+-----------------------
+-----------------------
+
+

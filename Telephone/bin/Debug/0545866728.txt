@@ -1,0 +1,21 @@
+Date:  17 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  
+---------------------------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+---------------------------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+_________________
+TOTAL  [ 17% 'Friends Club' ]  1477.4 $

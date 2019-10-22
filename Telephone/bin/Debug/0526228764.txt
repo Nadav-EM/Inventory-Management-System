@@ -1,0 +1,16 @@
+Date:  12 April 2019
+First Name:  Ran
+Last Name:  Avital
+Mobile:  0526228764
+Email:  ranav@walla.com
+Status:  NORMAL
+Address:  Tapuah 15 
+City:  Omer
+Payment:  
+---------------------------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+_________________
+TOTAL:  1800.99 $

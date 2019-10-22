@@ -1,0 +1,32 @@
+Date: 23 March 2019
+First Name:  Israel
+Last Name:  Israeli
+Mobile:  0776473551
+Email:  Israeli@Yahoo
+Status:  VIP
+Address:  Israelim 68
+City:  Tel Aviv
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+
+--------
+Catalog:  0007
+Product Name:  Asus X570
+Price:  1190.99 $
+Description:  Superfast data
+
+
+3190.94
+
+-----------------------
+-----------------------
+-----------------------
+
+

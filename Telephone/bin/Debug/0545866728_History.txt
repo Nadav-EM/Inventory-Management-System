@@ -1,0 +1,348 @@
+Date: 22 March 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Catalog:  CMP004
+Product Name:  MacBook pro 15
+Price:  1800.99 $
+Description:  Turbo boost up to 4.8 GHz 
+
+
+1494.82
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 22 March 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Catalog:  CMP003
+Product Name:  MacBook Air 13
+Price:  1275.99 $
+Description:  Up to 12 hours battery life
+
+
+1059.07
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 23 March 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+
+1908.58
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+Date: 29 March 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+Date: 29 March 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Date: 1 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Cash
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+--------
+Catalog:  0024
+Product Name:  Galaxy M30
+Price:  299.9 $
+Description:  LED Flash, HDR
+
+
+--------
+Catalog:  0021
+Product Name:  Galaxy S10
+Price:  900 $
+Description:  Android 9.0 (Pie)
+
+
+--------
+Catalog:  0020
+Product Name:  iPhone 6s Plus
+Price:  800 $
+Description:  Storage: 128 GB
+
+
+--------
+Catalog:  0027
+Product Name:  Sony Xperia XA2
+Price:  1100.9 $
+Description:  Storage: 32 GB
+
+
+--------
+Catalog:  0026
+Product Name:  Sony Xperia
+Price:  1300.9 $
+Description:  X-Reality Engine
+
+
+--------
+Catalog:  0025
+Product Name:  iPhone 8
+Price:  899.9 $
+Description:  RAM: 2 GB
+
+
+--------
+Catalog:  0002
+Product Name:  Razor Blade R1
+Price:  2200.99 $
+Description:  Dual core i7
+
+
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+Catalog:  0003
+Product Name:  HP Envy 17
+Price:  1049.5 $
+Description:  Intel core i7 Processors
+
+
+--------
+Catalog:  0006
+Product Name:  Sony Vaio Z
+Price:  1290.99 $
+Description:  Windows 10 Pro
+
+
+--------
+Catalog:  0025
+Product Name:  iPhone 8
+Price:  899.9 $
+Description:  RAM: 2 GB
+
+
+11573.45
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 2 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  CashCredit Number:  ************6214
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+1659.96
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 3 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  Credit
+Credit Number:  XXXX-XXXX-XXXX-6214
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+Catalog:  0009
+Product Name:  HP Spectre Folio 13
+Price:  1249.99 $
+Description:  Fanless Design
+
+
+2697.45
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  4 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  
+--------
+Catalog:  0006
+Product Name:  Sony Vaio Z
+Price:  1290.99 $
+Description:  Windows 10 Pro
+
+
+1071.52
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  17 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  
+--------
+Catalog:  0005
+Product Name:  Mackbook Pro 17"
+Price:  1800.99 $
+Description:  Reality engine 
+
+
+1494.82
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date:  17 April 2019
+First Name:  Elinor
+Last Name:  Bendalac
+Mobile:  0545866728
+Email:  elinorben@Hotmail.com
+Status:  FRIENDS
+Address:  Pisgat Zeev 18/2
+City:  Jerusalem
+Payment:  
+--------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+
+
+--------
+Catalog:  0012
+Product Name:  Mac Mini
+Price:  890 $
+Description:  3.6 GHz qua-core intel i3
+
+
+1477.4
+
+-----------------------
+-----------------------
+-----------------------
+
+

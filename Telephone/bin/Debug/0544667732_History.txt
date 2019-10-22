@@ -1,0 +1,45 @@
+Date: 24 March 2019
+First Name:  uri
+Last Name:  kimhi
+Mobile:  0544667732
+Email:  uri.kimhi@gmail.com
+Status:  NORMAL
+Address:  bla bla
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+
+
+--------
+Catalog:  0004
+Product Name:  HP Omex X
+Price:  1200.99 $
+Description:  Engineered for overclocking
+
+
+3200.94
+
+-----------------------
+-----------------------
+-----------------------
+
+
+Date: 29 March 2019
+First Name:  uri
+Last Name:  kimhi
+Mobile:  0544667732
+Email:  uri.kimhi@gmail.com
+Status:  NORMAL
+Address:  bla bla
+City:  Beer Sheva
+Payment:  Cash
+--------
+Catalog:  0001
+Product Name:  DEL 512
+Price:  1999.95 $
+Description:  Turbo Boost
+

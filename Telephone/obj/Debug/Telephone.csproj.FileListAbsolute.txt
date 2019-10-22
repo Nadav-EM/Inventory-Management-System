@@ -1,0 +1,39 @@
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Telephone.exe.config
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Telephone.exe
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Telephone.pdb
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.exe
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.pdb
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Phone.resources
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Shop.resources
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Report.resources
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Login.resources
+\\Mac\Home\Desktop\Telephone 2\Telephone\bin\Debug\Telephone.exe.config
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.exe
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.pdb
+\\Mac\Home\Desktop\Telephone 2\Telephone\bin\Debug\Telephone.exe
+\\Mac\Home\Desktop\Telephone 2\Telephone\bin\Debug\Telephone.pdb
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.Login.resources
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.Phone.resources
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.Report.resources
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.Shop.resources
+\\Mac\Home\Desktop\Telephone 2\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\bin\Debug\Telephone.exe.config
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.exe
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.pdb
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\bin\Debug\Telephone.exe
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\bin\Debug\Telephone.pdb
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Login.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Phone.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Report.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Shop.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Workers.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.Sales.resources
+\\Mac\Home\Desktop\PRO\Telephone 2\Telephone\obj\Debug\Telephone.ControlPanel.resources

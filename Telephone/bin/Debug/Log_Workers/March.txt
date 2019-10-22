@@ -1,0 +1,717 @@
+
+22/03/2019 10:12:27
+
+- - - - - - - - 
+
+22/03/2019 10:15:49
+Boaz
+worker1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:16:18
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:30:10
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:31:06
+Boaz
+worker1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:38:21
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:42:55
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:48:57
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 10:52:24
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 11:13:34
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 11:14:30
+Nadav
+boss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 11:19:20
+Nadavboss1@company.com
+
+- - - - - - - - 
+
+22/03/2019 11:20:13
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 11:22:49
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 11:23:40
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 11:24:50
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+22/03/2019 11:56:42
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+22/03/2019 11:57:23
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 12:01:05
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 12:02:55
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 12:07:26
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+22/03/2019 12:23:35
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 14:52:14
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 17:34:26
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 18:03:56
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 18:05:46
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 19:33:26
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 21:04:00
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+22/03/2019 22:59:15
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:02:36
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:04:30
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:05:07
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:05:32
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+23/03/2019 1:06:33
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:07:11
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:07:46
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+23/03/2019 1:08:54
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:19:35
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 1:25:45
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:26:08
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:26:44
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+23/03/2019 10:27:46
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:35:47
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+23/03/2019 10:38:52
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:45:56
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:50:35
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:52:31
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:53:26
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:55:35
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:56:21
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 10:57:01
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:01:24
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:04:19
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:05:32
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:06:37
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:07:18
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:07:44
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:10:38
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:11:54
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:12:13
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:14:25
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:16:13
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+23/03/2019 11:16:57
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:19:13
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 11:20:58
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:16:00
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:19:24
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:21:15
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:25:39
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:53:24
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:54:04
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:55:36
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 13:56:44
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 16:29:18
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 16:31:11
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 18:29:21
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 18:30:48
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 18:57:46
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+23/03/2019 18:58:48
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+23/03/2019 18:59:44
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 7:59:01
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 8:03:06
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 8:04:38
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 8:13:53
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 8:14:30
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 8:14:52
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 10:45:29
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+24/03/2019 10:46:25
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+25/03/2019 10:05:55
+checki
+bobo@net
+bobo
+bobo@gmail.com
+- - - - - - - - 
+
+25/03/2019 13:12:05
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+25/03/2019 17:04:02
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+25/03/2019 17:04:49
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+25/03/2019 17:33:07
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+25/03/2019 18:34:50
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+25/03/2019 20:00:06
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+26/03/2019 8:52:34
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+26/03/2019 9:03:24
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+26/03/2019 9:04:26
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+26/03/2019 9:05:30
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+26/03/2019 11:06:05
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+26/03/2019 11:23:45
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 11:24:39
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 11:38:49
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 12:56:51
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 13:02:21
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 15:30:35
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 15:32:58
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 17:25:21
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 17:25:56
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 17:31:07
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 17:38:28
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 19:21:23
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+26/03/2019 20:12:12
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+27/03/2019 13:31:07
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+27/03/2019 16:47:24
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+28/03/2019 20:28:37
+Nadav
+boss1@company.com
+Igor
+boss3@company.com
+- - - - - - - - 
+
+28/03/2019 21:52:54
+Nadav
+boss1@company.com
+dani
+dani@company.com
+booli
+booli@boo
+- - - - - - - - 
+
+28/03/2019 21:56:45
+Boaz
+worker1@company.com
+- - - - - - - - 
+
+28/03/2019 22:01:53
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+28/03/2019 22:33:34
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+28/03/2019 22:34:01
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+28/03/2019 22:37:31
+ba
+ba@company.com
+- - - - - - - - 
+
+28/03/2019 22:39:16
+ba
+ba@company.com
+- - - - - - - - 
+
+28/03/2019 22:39:42
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+28/03/2019 22:43:07
+ba
+ba@company.com
+- - - - - - - - 
+
+29/03/2019 13:48:35
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+29/03/2019 13:51:42
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+29/03/2019 13:58:34
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+29/03/2019 21:26:28
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+30/03/2019 12:24:34
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+30/03/2019 12:26:40
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+30/03/2019 12:28:21
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+30/03/2019 12:28:42
+Nadav
+boss1@company.com
+- - - - - - - - 
+
+31/03/2019 22:26:27
+Nadav
+boss1@company.com
+- - - - - - - - 
